@@ -8,7 +8,7 @@
 - Web Engineer - Remote - [Calm](https://boards.greenhouse.io/calm/jobs/5411394002)
 - Full Stack Engineer - Remote - [Northspyre](https://www.linkedin.com/jobs/view/2679429139/?refId=QF7AaixYRCah7eOlbTcHPw%3D%3D)
 - Front End Engineer - Remote - [Share Creators](https://triplebyte.com/users/sign_up?cr=K0mhbKA&fkey=bRdOyQo&ref=jb_linkedin_3nqgl2m-san-francisco-ca-united-states&rr=VHMbjXa)
-- Staff Software Front End Engineer - [Nerd Wallet] - (https://www.nerdwallet.com/careers/job/3385518)
+- Staff Software Front End Engineer - [Nerd Wallet](https://www.nerdwallet.com/careers/job/3385518)
 
 # Regular Companies
 - React Engineer - Houston, Tx - [JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/210134845/?location=Houston%252C+TX%252C+United+States&locationId=300000020691519&locationLevel=city&radius=0&radiusUnit=MI)
